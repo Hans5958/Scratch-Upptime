@@ -1,0 +1,52 @@
+owner: Hans5958
+repo: Scratch-Upptime
+
+sites:
+  - name: Main website
+    url: https://scratch.mit.edu
+  - name: Scratch Day website
+    url: https://day.scratch.mit.edu
+  - name: Scratch in Practice website
+    url: https://sip.scratch.mit.edu
+  - name: Main API
+    url: https://api.scratch.mit.edu
+  - name: Download server 1
+    url: https://download.scratch.mit.edu
+  - name: Download server 2
+    url: https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe
+  - name: CDN server 1
+    url: https://cdn.scratch.mit.edu
+  - name: CDN server 2
+    url: https://cdn2.scratch.mit.edu
+  - name: Project JSON server
+    url: https://projects.scratch.mit.edu
+  - name: Assets server
+    url: https://assets.scratch.mit.edu
+  - name: Cloud Data API
+    url: https://clouddata.scratch.mit.edu
+  - name: Upload API
+    url: https://uploads.scratch.mit.edu
+  - name: Backpack API
+    url: https://backpack.scratch.mit.edu
+  - name: Synthesis service
+    url: https://synthesis-service.scratch.mit.edu
+  - name: Translation service
+    url: https://translate-service.scratch.mit.edu
+
+status-website:
+  name: Scratch Upptime (unofficial)
+  introTitle: Welcome to **[Scratch](https://scratch.mit.edu)**'s (unofficial) Upptime status page.
+  introMessage: This is the status page for known services related to [Scratch](https://scratch.mit.edu). It monitors them for free using GitHub services, thanks to [Upptime](https://github.com/upptime/upptime).
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+user-agent: Auto5958
+commitMessages:
+  commitAuthorName: Auto5958
+  commitAuthorEmail: 69833949+Auto5958@users.noreply.github.com
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
