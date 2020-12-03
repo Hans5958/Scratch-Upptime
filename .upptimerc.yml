@@ -38,6 +38,7 @@ sites:
 
 status-website:
   name: Scratch Upptime (unofficial)
+  cname: scratch-upptime.netlify.app
   introTitle: Welcome to **[Scratch](https://scratch.mit.edu)**'s (unofficial) Upptime status page.
   introMessage: This is the status page for known services related to [Scratch](https://scratch.mit.edu). It monitors them for free using GitHub services, thanks to [Upptime](https://github.com/upptime/upptime).
   navbar:
