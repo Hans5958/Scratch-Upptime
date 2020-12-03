@@ -13,19 +13,21 @@ sites:
   - name: Download server 1
     url: https://download.scratch.mit.edu
   - name: Download server 2
-    url: https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe
+    url: https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe # Installer for Windows
   - name: CDN server 1
-    url: https://cdn.scratch.mit.edu
+    url: https://cdn.scratch.mit.edu/scratchr2/static/__867ec47c1657f9fde21932c086a84195__/images/logo_sm.png # Small scratch logo
   - name: CDN server 2
-    url: https://cdn2.scratch.mit.edu
+    url: https://cdn2.scratch.mit.edu/get_image/user/1882674_48x48.png # griffpatch profile picture
   - name: Project JSON server
     url: https://projects.scratch.mit.edu
   - name: Assets server
     url: https://assets.scratch.mit.edu
+  - name: Uploads server
+    url: https://uploads.scratch.mit.edu/projects/thumbnails/10128407.png # Paper Minecraft
   - name: Cloud Data API
-    url: https://clouddata.scratch.mit.edu
-  - name: Upload API
-    url: https://uploads.scratch.mit.edu
+    url: wss://clouddata.scratch.mit.edu
+    expectedStatusCodes:
+      - 101
   - name: Backpack API
     url: https://backpack.scratch.mit.edu
   - name: Synthesis service
