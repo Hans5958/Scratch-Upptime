@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Main website",
+    "url": "https://scratch.mit.edu",
+    "slug": "main-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 143
+  },
+  {
+    "name": "Scratch Day website",
+    "url": "https://day.scratch.mit.edu",
+    "slug": "scratch-day-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 377
+  },
+  {
+    "name": "Scratch in Practice website",
+    "url": "https://sip.scratch.mit.edu",
+    "slug": "scratch-in-practice-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 0
+  },
+  {
+    "name": "Main API",
+    "url": "https://api.scratch.mit.edu",
+    "slug": "main-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 170
+  },
+  {
+    "name": "Download server 1",
+    "url": "https://download.scratch.mit.edu",
+    "slug": "download-server-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 186
+  },
+  {
+    "name": "Download server 2",
+    "url": "https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe",
+    "slug": "download-server-2",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1353
+  },
+  {
+    "name": "CDN server 1",
+    "url": "https://cdn.scratch.mit.edu",
+    "slug": "cdn-server-1",
+    "status": "down",
+    "uptime": "2.94%",
+    "time": 49
+  },
+  {
+    "name": "CDN server 2",
+    "url": "https://cdn2.scratch.mit.edu",
+    "slug": "cdn-server-2",
+    "status": "down",
+    "uptime": "9.78%",
+    "time": 186
+  },
+  {
+    "name": "Project JSON server",
+    "url": "https://projects.scratch.mit.edu",
+    "slug": "project-json-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 47
+  },
+  {
+    "name": "Assets server",
+    "url": "https://assets.scratch.mit.edu",
+    "slug": "assets-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 72
+  },
+  {
+    "name": "Cloud Data API",
+    "url": "https://clouddata.scratch.mit.edu",
+    "slug": "cloud-data-api",
+    "status": "down",
+    "uptime": "0.76%",
+    "time": 168
+  },
+  {
+    "name": "Upload API",
+    "url": "https://uploads.scratch.mit.edu",
+    "slug": "upload-api",
+    "status": "down",
+    "uptime": "7.43%",
+    "time": 213
+  },
+  {
+    "name": "Backpack API",
+    "url": "https://backpack.scratch.mit.edu",
+    "slug": "backpack-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 102
+  },
+  {
+    "name": "Synthesis service",
+    "url": "https://synthesis-service.scratch.mit.edu",
+    "slug": "synthesis-service",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 162
+  },
+  {
+    "name": "Translation service",
+    "url": "https://translate-service.scratch.mit.edu",
+    "slug": "translation-service",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 62
+  }
+]
