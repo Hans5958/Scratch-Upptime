@@ -25,7 +25,7 @@ sites:
   - name: Uploads server
     url: https://uploads.scratch.mit.edu/projects/thumbnails/10128407.png # Paper Minecraft
   - name: Cloud Data API
-    url: wss://clouddata.scratch.mit.edu
+    url: https://clouddata.scratch.mit.edu
     expectedStatusCodes:
       - 101
       - 404 # TODO: Hope there is another way...
