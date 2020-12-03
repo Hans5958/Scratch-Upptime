@@ -28,6 +28,7 @@ sites:
     url: wss://clouddata.scratch.mit.edu
     expectedStatusCodes:
       - 101
+      - 404 # TODO: Hope there is another way...
   - name: Backpack API
     url: https://backpack.scratch.mit.edu
   - name: Synthesis service
