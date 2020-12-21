@@ -94,19 +94,19 @@
     "url": "https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe",
     "icon": "https://favicons.githubusercontent.com/downloads.scratch.mit.edu",
     "slug": "download-server-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2074,
-    "timeDay": 1700,
-    "timeWeek": 2654,
-    "timeMonth": 2074,
-    "timeYear": 2074,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2049,
+    "timeDay": 1586,
+    "timeWeek": 2507,
+    "timeMonth": 2049,
+    "timeYear": 2049,
     "dailyMinutesDown": {
-      "2020-12-21": 0
+      "2020-12-21": 23
     }
   },
   {
