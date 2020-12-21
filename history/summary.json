@@ -94,9 +94,9 @@
     "url": "https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe",
     "icon": "https://favicons.githubusercontent.com/downloads.scratch.mit.edu",
     "slug": "download-server-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 2654,
     "timeMonth": 2074,
     "timeYear": 2074,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-21": 0
+    }
   },
   {
     "name": "CDN server 1",
