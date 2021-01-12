@@ -241,18 +241,20 @@
     "url": "https://synthesis-service.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/synthesis-service.scratch.mit.edu",
     "slug": "synthesis-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 61,
-    "timeWeek": 99,
-    "timeMonth": 87,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
+    "time": 111,
+    "timeDay": 56,
+    "timeWeek": 93,
+    "timeMonth": 86,
+    "timeYear": 111,
+    "dailyMinutesDown": {
+      "2021-01-12": 0
+    }
   },
   {
     "name": "Translation service",
