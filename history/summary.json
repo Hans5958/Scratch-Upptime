@@ -133,18 +133,20 @@
     "url": "https://cdn2.scratch.mit.edu/get_image/user/1882674_48x48.png",
     "icon": "https://favicons.githubusercontent.com/cdn2.scratch.mit.edu",
     "slug": "cdn-server-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 208,
-    "timeWeek": 179,
-    "timeMonth": 172,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "time": 255,
+    "timeDay": 156,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 255,
+    "dailyMinutesDown": {
+      "2021-01-19": 0
+    }
   },
   {
     "name": "Project JSON server",
@@ -244,12 +246,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 109,
     "timeDay": 76,
-    "timeWeek": 91,
+    "timeWeek": 96,
     "timeMonth": 86,
     "timeYear": 109,
     "dailyMinutesDown": {
