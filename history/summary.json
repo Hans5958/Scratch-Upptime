@@ -22,10 +22,10 @@
     "url": "https://day.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/day.scratch.mit.edu",
     "slug": "scratch-day-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
@@ -33,7 +33,9 @@
     "timeWeek": 276,
     "timeMonth": 285,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 1
+    }
   },
   {
     "name": "Scratch in Practice website",
@@ -76,9 +78,9 @@
     "url": "https://download.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/download.scratch.mit.edu",
     "slug": "download-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 171,
     "timeMonth": 185,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 0
+    }
   },
   {
     "name": "Download server 2",
