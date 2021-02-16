@@ -22,19 +22,19 @@
     "url": "https://day.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/day.scratch.mit.edu",
     "slug": "scratch-day-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 319,
-    "timeWeek": 276,
-    "timeMonth": 285,
-    "timeYear": 313,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 312,
+    "timeDay": 280,
+    "timeWeek": 272,
+    "timeMonth": 284,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2021-02-16": 1
+      "2021-02-16": 22
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://download.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/download.scratch.mit.edu",
     "slug": "download-server-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 186,
-    "timeDay": 212,
-    "timeWeek": 171,
-    "timeMonth": 185,
+    "timeDay": 185,
+    "timeWeek": 170,
+    "timeMonth": 184,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2021-02-16": 0
+      "2021-02-16": 22
     }
   },
   {
