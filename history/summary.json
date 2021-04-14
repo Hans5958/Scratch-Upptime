@@ -79,7 +79,7 @@
     "url": "https://download.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/download.scratch.mit.edu",
     "slug": "download-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
