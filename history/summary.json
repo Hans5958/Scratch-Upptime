@@ -4,19 +4,19 @@
     "url": "https://scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/scratch.mit.edu",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 161,
-    "timeDay": 86,
-    "timeWeek": 114,
-    "timeMonth": 126,
+    "timeDay": 89,
+    "timeWeek": 112,
+    "timeMonth": 125,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2021-05-16": 0
+      "2021-05-16": 27
     }
   },
   {
