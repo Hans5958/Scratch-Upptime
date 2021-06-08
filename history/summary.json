@@ -104,18 +104,19 @@
     "url": "https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe",
     "icon": "https://favicons.githubusercontent.com/downloads.scratch.mit.edu",
     "slug": "download-server-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 2385,
-    "timeDay": 2897,
-    "timeWeek": 2394,
-    "timeMonth": 2425,
-    "timeYear": 2385,
+    "time": 2374,
+    "timeDay": 1503,
+    "timeWeek": 2108,
+    "timeMonth": 2352,
+    "timeYear": 2374,
     "dailyMinutesDown": {
+      "2021-06-08": 0,
       "2021-02-10": 81,
       "2021-01-07": 17,
       "2020-12-21": 23
@@ -126,18 +127,20 @@
     "url": "https://cdn.scratch.mit.edu/scratchr2/static/__867ec47c1657f9fde21932c086a84195__/images/logo_sm.png",
     "icon": "https://favicons.githubusercontent.com/cdn.scratch.mit.edu",
     "slug": "cdn-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 146,
-    "timeWeek": 84,
+    "timeDay": 126,
+    "timeWeek": 87,
     "timeMonth": 107,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "CDN server 2",
@@ -204,18 +207,20 @@
     "url": "https://uploads.scratch.mit.edu/projects/thumbnails/10128407.png",
     "icon": "https://favicons.githubusercontent.com/uploads.scratch.mit.edu",
     "slug": "uploads-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 206,
-    "timeWeek": 222,
-    "timeMonth": 217,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 170,
+    "timeDay": 169,
+    "timeWeek": 211,
+    "timeMonth": 214,
+    "timeYear": 170,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Cloud Data API",
@@ -240,18 +245,20 @@
     "url": "https://backpack.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/backpack.scratch.mit.edu",
     "slug": "backpack-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 118,
-    "timeWeek": 160,
-    "timeMonth": 136,
+    "timeDay": 111,
+    "timeWeek": 153,
+    "timeMonth": 135,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Synthesis service",
@@ -279,17 +286,19 @@
     "url": "https://translate-service.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/translate-service.scratch.mit.edu",
     "slug": "translation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 91,
-    "timeWeek": 114,
-    "timeMonth": 113,
+    "timeDay": 95,
+    "timeWeek": 112,
+    "timeMonth": 112,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
