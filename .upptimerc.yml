@@ -4,10 +4,6 @@ repo: Scratch-Upptime
 sites:
   - name: Main website
     url: https://scratch.mit.edu
-  - name: Scratch Day website
-    url: https://day.scratch.mit.edu
-  - name: Scratch in Practice website
-    url: https://sip.scratch.mit.edu
   - name: Main API
     url: https://api.scratch.mit.edu
   - name: Download server 1
