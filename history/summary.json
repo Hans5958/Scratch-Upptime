@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 133,
-    "timeDay": 228,
-    "timeWeek": 144,
-    "timeMonth": 164,
+    "timeDay": 136,
+    "timeWeek": 142,
+    "timeMonth": 155,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2022-04-19": 81,
       "2022-03-05": 43,
       "2021-12-14": 25,
-      "2021-11-16": 12,
-      "2021-06-08": 26
+      "2021-11-16": 12
     }
   },
   {
@@ -35,13 +34,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 116,
-    "timeWeek": 130,
-    "timeMonth": 118,
+    "timeDay": 204,
+    "timeWeek": 136,
+    "timeMonth": 121,
     "timeYear": 116,
-    "dailyMinutesDown": {
-      "2021-06-08": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Download server 1",
@@ -55,9 +52,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.38%",
     "time": 207,
-    "timeDay": 297,
-    "timeWeek": 239,
-    "timeMonth": 244,
+    "timeDay": 265,
+    "timeWeek": 256,
+    "timeMonth": 249,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2022-05-21": 22,
@@ -86,19 +83,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 2189,
-    "timeDay": 786,
-    "timeWeek": 1333,
-    "timeMonth": 1639,
-    "timeYear": 2089,
+    "time": 2186,
+    "timeDay": 1074,
+    "timeWeek": 1378,
+    "timeMonth": 1614,
+    "timeYear": 2085,
     "dailyMinutesDown": {
       "2022-03-10": 10,
       "2022-01-27": 32,
       "2022-01-26": 20,
       "2021-08-19": 13,
       "2021-07-02": 78,
-      "2021-06-30": 27,
-      "2021-06-08": 58
+      "2021-06-30": 27
     }
   },
   {
@@ -113,13 +109,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 84,
-    "timeWeek": 155,
-    "timeMonth": 118,
+    "timeDay": 248,
+    "timeWeek": 173,
+    "timeMonth": 124,
     "timeYear": 126,
-    "dailyMinutesDown": {
-      "2021-06-08": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN server 2",
@@ -133,13 +127,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 513,
-    "timeDay": 133,
-    "timeWeek": 184,
-    "timeMonth": 201,
-    "timeYear": 270,
+    "timeDay": 343,
+    "timeWeek": 209,
+    "timeMonth": 203,
+    "timeYear": 271,
     "dailyMinutesDown": {
-      "2021-06-10": 260,
-      "2021-06-08": 26
+      "2021-06-10": 260
     }
   },
   {
@@ -154,13 +147,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 121,
-    "timeWeek": 109,
-    "timeMonth": 101,
+    "timeDay": 97,
+    "timeWeek": 114,
+    "timeMonth": 100,
     "timeYear": 86,
-    "dailyMinutesDown": {
-      "2021-06-08": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Assets server",
@@ -174,13 +165,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 68,
-    "timeWeek": 146,
-    "timeMonth": 214,
-    "timeYear": 135,
-    "dailyMinutesDown": {
-      "2021-06-08": 26
-    }
+    "timeDay": 311,
+    "timeWeek": 168,
+    "timeMonth": 222,
+    "timeYear": 136,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Uploads server",
@@ -194,13 +183,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 152,
-    "timeDay": 30,
-    "timeWeek": 85,
+    "timeDay": 51,
+    "timeWeek": 89,
     "timeMonth": 54,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2021-06-10": 124,
-      "2021-06-08": 33
+      "2021-06-10": 124
     }
   },
   {
@@ -215,9 +203,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 331,
-    "timeWeek": 199,
-    "timeMonth": 206,
+    "timeDay": 242,
+    "timeWeek": 212,
+    "timeMonth": 210,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -233,13 +221,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 209,
-    "timeWeek": 131,
-    "timeMonth": 168,
-    "timeYear": 161,
-    "dailyMinutesDown": {
-      "2021-06-08": 58
-    }
+    "timeDay": 262,
+    "timeWeek": 153,
+    "timeMonth": 173,
+    "timeYear": 162,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Synthesis service",
@@ -253,13 +239,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 69,
-    "timeWeek": 82,
-    "timeMonth": 94,
+    "timeDay": 141,
+    "timeWeek": 96,
+    "timeMonth": 97,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2021-06-08": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Translation service",
@@ -272,13 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 107,
-    "timeDay": 56,
-    "timeWeek": 110,
-    "timeMonth": 99,
+    "time": 108,
+    "timeDay": 137,
+    "timeWeek": 121,
+    "timeMonth": 101,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2021-06-08": 58
-    }
+    "dailyMinutesDown": {}
   }
 ]
