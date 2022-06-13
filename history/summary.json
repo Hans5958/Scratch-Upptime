@@ -120,19 +120,19 @@
     "url": "https://cdn2.scratch.mit.edu/get_image/user/1882674_48x48.png",
     "icon": "https://favicons.githubusercontent.com/cdn2.scratch.mit.edu",
     "slug": "cdn-server-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 2616,
-    "timeWeek": 814,
-    "timeMonth": 355,
+    "time": 493,
+    "timeDay": 1810,
+    "timeWeek": 746,
+    "timeMonth": 351,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 16
     }
   },
   {
