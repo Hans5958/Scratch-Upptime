@@ -233,17 +233,18 @@
     "slug": "synthesis-service",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.36%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "90.37%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 132,
     "timeDay": 108,
     "timeWeek": 115,
     "timeMonth": 100,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2022-06-28": 81
+      "2022-06-29": 44,
+      "2022-06-28": 95
     }
   },
   {
