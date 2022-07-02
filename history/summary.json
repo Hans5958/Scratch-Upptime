@@ -45,9 +45,9 @@
     "url": "https://download.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/download.scratch.mit.edu",
     "slug": "download-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.39%",
@@ -57,6 +57,7 @@
     "timeMonth": 262,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2022-07-02": 0,
       "2022-05-21": 22,
       "2022-02-04": 15,
       "2021-11-04": 21,
@@ -86,7 +87,7 @@
     "timeDay": 685,
     "timeWeek": 1303,
     "timeMonth": 1382,
-    "timeYear": 2014,
+    "timeYear": 2013,
     "dailyMinutesDown": {
       "2022-06-25": 18,
       "2022-06-23": 43,
