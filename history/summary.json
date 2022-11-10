@@ -153,18 +153,20 @@
     "url": "https://projects.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/projects.scratch.mit.edu.ico",
     "slug": "project-json-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 55,
+    "time": 95,
+    "timeDay": 82,
     "timeWeek": 112,
     "timeMonth": 111,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-10": 0
+    }
   },
   {
     "name": "Assets server",
