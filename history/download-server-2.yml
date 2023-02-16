@@ -1,7 +1,7 @@
 url: https://downloads.scratch.mit.edu/desktop/Scratch%20Setup.exe
-status: up
-code: 200
-responseTime: 1002
-lastUpdated: 2023-02-15T23:16:47.590Z
+status: down
+code: 403
+responseTime: 203
+lastUpdated: 2023-02-16T15:41:48.373Z
 startTime: Thu Dec 03 2020 14:50:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
