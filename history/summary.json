@@ -156,14 +156,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.32%",
+    "uptimeYear": "54.31%",
     "time": 112,
     "timeDay": 136,
     "timeWeek": 114,
     "timeMonth": 101,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-04-26": 879,
+      "2023-04-26": 923,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -437,19 +437,19 @@
     "url": "https://translate-service.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 170,
-    "timeWeek": 134,
-    "timeMonth": 95,
+    "timeDay": 181,
+    "timeWeek": 142,
+    "timeMonth": 99,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-04-26": 12
+      "2023-04-26": 13
     }
   }
 ]
