@@ -163,7 +163,7 @@
     "timeMonth": 100,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-05-02": 1103,
+      "2023-05-02": 1115,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
@@ -384,19 +384,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 760,
+    "time": 260,
+    "timeDay": 624,
     "timeWeek": 349,
-    "timeMonth": 260,
+    "timeMonth": 263,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-05-02": 0
+      "2023-05-02": 12
     }
   },
   {
@@ -450,8 +450,8 @@
     "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.19%",
-    "uptimeMonth": "86.01%",
+    "uptimeWeek": "39.07%",
+    "uptimeMonth": "85.98%",
     "uptimeYear": "98.83%",
     "time": 115,
     "timeDay": 69,
@@ -459,7 +459,7 @@
     "timeMonth": 127,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-05-02": 1104,
+      "2023-05-02": 1116,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
