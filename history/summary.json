@@ -77,7 +77,7 @@
     "timeDay": 805,
     "timeWeek": 862,
     "timeMonth": 874,
-    "timeYear": 1522,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2023-03-22": 10,
       "2023-02-17": 1307,
@@ -101,7 +101,7 @@
     "timeDay": 53,
     "timeWeek": 89,
     "timeMonth": 127,
-    "timeYear": 128,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -141,7 +141,7 @@
     "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-11-02": 1400,
+      "2023-11-02": 1423,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -506,17 +506,17 @@
     "url": "https://assets.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "63.80%",
+    "uptimeDay": "63.78%",
     "uptimeWeek": "81.11%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "99.63%",
-    "time": 334,
-    "timeDay": 772,
-    "timeWeek": 825,
-    "timeMonth": 751,
-    "timeYear": 384,
+    "time": 336,
+    "timeDay": 785,
+    "timeWeek": 828,
+    "timeMonth": 754,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2023-11-02": 504,
       "2023-11-01": 288,
@@ -525,8 +525,7 @@
       "2023-10-29": 180,
       "2023-10-28": 116,
       "2023-10-27": 209,
-      "2023-10-26": 56,
-      "2023-01-25": 10
+      "2023-10-26": 56
     }
   },
   {
@@ -544,7 +543,7 @@
     "timeDay": 32,
     "timeWeek": 26,
     "timeMonth": 41,
-    "timeYear": 40,
+    "timeYear": 41,
     "dailyMinutesDown": {
       "2023-01-25": 10
     }
@@ -555,18 +554,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
     "status": "down",
-    "uptime": "96.68%",
+    "uptime": "96.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.31%",
+    "uptimeYear": "90.30%",
     "time": 288,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2023-11-02": 1400,
+      "2023-11-02": 1423,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -660,14 +659,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.37%",
+    "uptimeYear": "48.36%",
     "time": 161,
     "timeDay": 189,
     "timeWeek": 156,
     "timeMonth": 220,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-11-02": 1400,
+      "2023-11-02": 1423,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
