@@ -140,7 +140,7 @@
     "timeMonth": 88,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-11-28": 1160,
+      "2023-11-28": 1172,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -512,17 +512,17 @@
     "url": "https://assets.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "29.73%",
-    "uptimeWeek": "17.81%",
-    "uptimeMonth": "62.87%",
-    "uptimeYear": "96.91%",
-    "time": 588,
-    "timeDay": 691,
-    "timeWeek": 770,
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "30.52%",
+    "uptimeWeek": "17.92%",
+    "uptimeMonth": "65.40%",
+    "uptimeYear": "97.12%",
+    "time": 589,
+    "timeDay": 726,
+    "timeWeek": 774,
     "timeMonth": 800,
-    "timeYear": 621,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2023-11-28": 769,
       "2023-11-27": 1225,
@@ -536,7 +536,7 @@
       "2023-11-19": 1369,
       "2023-11-18": 1404,
       "2023-11-17": 1394,
-      "2023-11-16": 1301
+      "2023-11-16": 192
     }
   },
   {
@@ -565,7 +565,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
     "status": "down",
-    "uptime": "94.39%",
+    "uptime": "94.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2023-11-28": 1160,
+      "2023-11-28": 1172,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -703,7 +703,7 @@
     "timeMonth": 178,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-11-28": 1160,
+      "2023-11-28": 1172,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
