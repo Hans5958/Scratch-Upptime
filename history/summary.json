@@ -4,18 +4,20 @@
     "url": "https://scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/scratch.mit.edu.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 271,
-    "timeWeek": 179,
-    "timeMonth": 173,
+    "timeDay": 190,
+    "timeWeek": 170,
+    "timeMonth": 171,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "Main API",
@@ -140,7 +142,7 @@
     "timeMonth": 93,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-12-05": 896,
+      "2023-12-05": 918,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -512,17 +514,17 @@
     "url": "https://assets.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "17.68%",
-    "uptimeWeek": "19.32%",
-    "uptimeMonth": "80.08%",
-    "uptimeYear": "98.34%",
-    "time": 604,
-    "timeDay": 753,
-    "timeWeek": 762,
-    "timeMonth": 788,
-    "timeYear": 641,
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "19.17%",
+    "uptimeWeek": "19.47%",
+    "uptimeMonth": "80.53%",
+    "uptimeYear": "98.38%",
+    "time": 605,
+    "timeDay": 782,
+    "timeWeek": 769,
+    "timeMonth": 789,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2023-12-05": 695,
       "2023-12-04": 1126,
@@ -531,7 +533,7 @@
       "2023-12-01": 1146,
       "2023-11-30": 1233,
       "2023-11-29": 1079,
-      "2023-11-28": 1015
+      "2023-11-28": 818
     }
   },
   {
@@ -571,7 +573,7 @@
     "timeMonth": 0,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2023-12-05": 896,
+      "2023-12-05": 918,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -705,7 +707,7 @@
     "timeMonth": 180,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2023-12-05": 896,
+      "2023-12-05": 918,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
