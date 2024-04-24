@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-04-24": 289,
+      "2024-04-24": 301,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
@@ -192,19 +192,19 @@
     "url": "https://cdn.scratch.mit.edu/scratchr2/static/__867ec47c1657f9fde21932c086a84195__/images/logo_sm.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.scratch.mit.edu.ico",
     "slug": "cdn-server-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 256,
-    "timeWeek": 120,
-    "timeMonth": 100,
+    "time": 119,
+    "timeDay": 180,
+    "timeWeek": 110,
+    "timeMonth": 97,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 11
     }
   },
   {
@@ -242,7 +242,7 @@
     "timeMonth": 64,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-04-24": 289,
+      "2024-04-24": 301,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 1432,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2024-04-24": 289,
+      "2024-04-24": 301,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
@@ -973,14 +973,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.91%",
+    "uptimeYear": "0.90%",
     "time": 168,
     "timeDay": 84,
     "timeWeek": 136,
     "timeMonth": 148,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-04-24": 289,
+      "2024-04-24": 301,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
