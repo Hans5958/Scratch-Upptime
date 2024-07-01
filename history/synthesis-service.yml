@@ -1,7 +1,7 @@
 url: https://synthesis-service.scratch.mit.edu
 status: down
-code: 503
-responseTime: 214
-lastUpdated: 2024-07-01T21:21:17.882Z
+code: 502
+responseTime: 202
+lastUpdated: 2024-07-01T23:16:02.741Z
 startTime: 2020-12-03T14:51:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
