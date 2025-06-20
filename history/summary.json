@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 151,
-    "timeDay": 134,
-    "timeWeek": 107,
-    "timeMonth": 123,
+    "timeDay": 150,
+    "timeWeek": 104,
+    "timeMonth": 124,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2024-11-02": 28,
@@ -24,8 +24,7 @@
       "2024-07-11": 51,
       "2024-07-04": 106,
       "2024-07-03": 121,
-      "2024-06-21": 26,
-      "2024-06-20": 19
+      "2024-06-21": 26
     }
   },
   {
@@ -40,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 122,
-    "timeDay": 169,
-    "timeWeek": 94,
-    "timeMonth": 111,
+    "timeDay": 235,
+    "timeWeek": 114,
+    "timeMonth": 113,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2024-07-03": 121
@@ -54,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.scratch.mit.edu.ico",
     "slug": "download-server-1",
     "status": "down",
-    "uptime": "67.89%",
+    "uptime": "67.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -65,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 58,
+      "2025-06-20": 57,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -428,8 +428,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -444,10 +443,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 861,
-    "timeDay": 930,
-    "timeWeek": 901,
-    "timeMonth": 888,
-    "timeYear": 889,
+    "timeDay": 660,
+    "timeWeek": 886,
+    "timeMonth": 878,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-04-08": 25,
       "2025-03-11": 15,
@@ -472,9 +471,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 295,
-    "timeWeek": 167,
-    "timeMonth": 136,
+    "timeDay": 94,
+    "timeWeek": 162,
+    "timeMonth": 133,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -490,8 +489,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 264,
-    "timeWeek": 214,
+    "timeDay": 273,
+    "timeWeek": 217,
     "timeMonth": 233,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -502,18 +501,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.scratch.mit.edu.ico",
     "slug": "project-json-server",
     "status": "down",
-    "uptime": "42.64%",
+    "uptime": "42.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 88,
-    "timeDay": 144,
-    "timeWeek": 100,
-    "timeMonth": 92,
+    "timeDay": 60,
+    "timeWeek": 95,
+    "timeMonth": 91,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2025-06-19": 58,
+      "2025-06-20": 57,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -876,8 +876,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -886,18 +885,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "66.34%",
+    "uptime": "66.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1445,
-    "timeDay": 1499,
-    "timeWeek": 1587,
-    "timeMonth": 1513,
+    "time": 1446,
+    "timeDay": 1506,
+    "timeWeek": 1599,
+    "timeMonth": 1516,
     "timeYear": 1451,
     "dailyMinutesDown": {
-      "2025-06-19": 58,
+      "2025-06-20": 57,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1260,8 +1260,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -1276,8 +1275,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
-    "timeDay": 75,
-    "timeWeek": 42,
+    "timeDay": 37,
+    "timeWeek": 40,
     "timeMonth": 45,
     "timeYear": 60,
     "dailyMinutesDown": {}
@@ -1288,16 +1287,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
     "status": "up",
-    "uptime": "86.00%",
+    "uptime": "86.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "67.29%",
     "time": 222,
-    "timeDay": 268,
-    "timeWeek": 323,
-    "timeMonth": 340,
-    "timeYear": 241,
+    "timeDay": 261,
+    "timeWeek": 302,
+    "timeMonth": 336,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2025-04-16": 1345,
       "2025-04-15": 1440,
@@ -1435,10 +1434,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 185,
-    "timeWeek": 176,
-    "timeMonth": 210,
-    "timeYear": 184,
+    "timeDay": 248,
+    "timeWeek": 180,
+    "timeMonth": 209,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -1453,9 +1452,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 128,
-    "timeDay": 199,
-    "timeWeek": 160,
-    "timeMonth": 152,
+    "timeDay": 63,
+    "timeWeek": 142,
+    "timeMonth": 147,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2024-07-02": 328,
@@ -1468,18 +1467,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "52.81%",
+    "uptime": "52.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 187,
-    "timeDay": 268,
-    "timeWeek": 183,
-    "timeMonth": 187,
+    "timeDay": 151,
+    "timeWeek": 169,
+    "timeMonth": 185,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-06-19": 58,
+      "2025-06-20": 58,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1842,8 +1842,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   }
 ]
