@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 477,
+      "2025-08-16": 506,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -469,19 +469,19 @@
     "url": "https://cdn2.scratch.mit.edu/get_image/user/1882674_48x48.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn2.scratch.mit.edu.ico",
     "slug": "cdn-server-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 174,
-    "timeWeek": 234,
-    "timeMonth": 252,
-    "timeYear": 228,
+    "timeDay": 137,
+    "timeWeek": 217,
+    "timeMonth": 248,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-08-16": 2
+      "2025-08-16": 31
     }
   },
   {
@@ -501,7 +501,7 @@
     "timeMonth": 103,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-08-16": 477,
+      "2025-08-16": 506,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -885,7 +885,7 @@
     "timeMonth": 1471,
     "timeYear": 1453,
     "dailyMinutesDown": {
-      "2025-08-16": 477,
+      "2025-08-16": 506,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -1257,19 +1257,19 @@
     "url": "https://uploads.scratch.mit.edu/projects/thumbnails/10128407.png",
     "icon": "https://icons.duckduckgo.com/ip3/uploads.scratch.mit.edu.ico",
     "slug": "uploads-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 57,
-    "timeDay": 32,
-    "timeWeek": 31,
-    "timeMonth": 40,
+    "timeDay": 60,
+    "timeWeek": 38,
+    "timeMonth": 41,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2025-08-16": 1
+      "2025-08-16": 30
     }
   },
   {
@@ -1464,7 +1464,7 @@
     "timeMonth": 212,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-08-16": 477,
+      "2025-08-16": 506,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
