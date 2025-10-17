@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 1233,
+      "2025-10-17": 1256,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -500,7 +500,7 @@
     "timeMonth": 87,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-10-17": 1233,
+      "2025-10-17": 1256,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -873,7 +873,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "61.84%",
+    "uptime": "61.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -884,7 +884,7 @@
     "timeMonth": 1468,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-10-17": 1233,
+      "2025-10-17": 1256,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1276,16 +1276,16 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "23.18%",
-    "uptimeWeek": "50.42%",
-    "uptimeMonth": "85.40%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "23.28%",
+    "uptimeWeek": "50.41%",
+    "uptimeMonth": "85.53%",
+    "uptimeYear": "98.79%",
     "time": 268,
-    "timeDay": 355,
-    "timeWeek": 286,
-    "timeMonth": 281,
+    "timeDay": 356,
+    "timeWeek": 287,
+    "timeMonth": 282,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-10-17": 1032,
@@ -1299,7 +1299,7 @@
       "2025-09-28": 68,
       "2025-09-27": 477,
       "2025-09-26": 533,
-      "2025-09-25": 294
+      "2025-09-25": 237
     }
   },
   {
@@ -1360,7 +1360,7 @@
     "timeMonth": 218,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-10-17": 1233,
+      "2025-10-17": 1256,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
