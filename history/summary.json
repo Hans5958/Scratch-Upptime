@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 1280,
+      "2025-10-17": 1314,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -500,7 +500,7 @@
     "timeMonth": 87,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-10-17": 1280,
+      "2025-10-17": 1314,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -884,7 +884,7 @@
     "timeMonth": 1468,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-10-17": 1280,
+      "2025-10-17": 1314,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1276,17 +1276,17 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "23.31%",
+    "uptimeDay": "23.83%",
     "uptimeWeek": "50.18%",
-    "uptimeMonth": "85.48%",
-    "uptimeYear": "98.79%",
+    "uptimeMonth": "85.54%",
+    "uptimeYear": "98.80%",
     "time": 269,
-    "timeDay": 357,
-    "timeWeek": 288,
-    "timeMonth": 282,
-    "timeYear": 280,
+    "timeDay": 361,
+    "timeWeek": 289,
+    "timeMonth": 283,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2025-10-17": 1056,
       "2025-10-16": 551,
@@ -1299,7 +1299,7 @@
       "2025-09-28": 68,
       "2025-09-27": 477,
       "2025-09-26": 533,
-      "2025-09-25": 237
+      "2025-09-25": 208
     }
   },
   {
@@ -1349,7 +1349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "49.23%",
+    "uptime": "49.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1360,7 +1360,7 @@
     "timeMonth": 218,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-10-17": 1280,
+      "2025-10-17": 1314,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
