@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.scratch.mit.edu.ico",
     "slug": "download-server-1",
     "status": "down",
-    "uptime": "62.94%",
+    "uptime": "62.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 1003,
+      "2025-10-27": 1043,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -500,7 +500,7 @@
     "timeMonth": 94,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2025-10-27": 1003,
+      "2025-10-27": 1043,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -884,7 +884,7 @@
     "timeMonth": 1469,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-10-27": 1003,
+      "2025-10-27": 1043,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -1276,16 +1276,16 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "28.55%",
-    "uptimeWeek": "5.00%",
-    "uptimeMonth": "57.73%",
+    "uptimeDay": "31.30%",
+    "uptimeWeek": "5.40%",
+    "uptimeMonth": "57.76%",
     "uptimeYear": "96.48%",
     "time": 261,
     "timeDay": 253,
-    "timeWeek": 240,
-    "timeMonth": 275,
+    "timeWeek": 241,
+    "timeMonth": 274,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2025-10-27": 717,
@@ -1307,7 +1307,7 @@
       "2025-10-11": 23,
       "2025-09-30": 23,
       "2025-09-28": 68,
-      "2025-09-27": 188
+      "2025-09-27": 173
     }
   },
   {
@@ -1357,7 +1357,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "48.96%",
+    "uptime": "48.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1368,7 +1368,7 @@
     "timeMonth": 208,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-10-27": 1003,
+      "2025-10-27": 1043,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
