@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 756,
+      "2025-10-31": 834,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -488,7 +488,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.scratch.mit.edu.ico",
     "slug": "project-json-server",
     "status": "down",
-    "uptime": "39.45%",
+    "uptime": "39.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -499,7 +499,7 @@
     "timeMonth": 94,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2025-10-31": 756,
+      "2025-10-31": 834,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -883,7 +883,7 @@
     "timeMonth": 1466,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-10-31": 756,
+      "2025-10-31": 834,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -1275,19 +1275,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "61.93%",
-    "uptimeWeek": "27.36%",
-    "uptimeMonth": "56.15%",
-    "uptimeYear": "96.35%",
-    "time": 260,
-    "timeDay": 250,
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "65.68%",
+    "uptimeWeek": "28.13%",
+    "uptimeMonth": "56.82%",
+    "uptimeYear": "96.40%",
+    "time": 261,
+    "timeDay": 263,
     "timeWeek": 255,
     "timeMonth": 270,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-10-31": 123,
+      "2025-10-31": 124,
       "2025-10-30": 859,
       "2025-10-29": 966,
       "2025-10-28": 1017,
@@ -1304,7 +1304,7 @@
       "2025-10-17": 1140,
       "2025-10-16": 551,
       "2025-10-15": 495,
-      "2025-10-14": 628
+      "2025-10-14": 335
     }
   },
   {
@@ -1365,7 +1365,7 @@
     "timeMonth": 210,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-10-31": 756,
+      "2025-10-31": 835,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
