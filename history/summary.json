@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 832,
+      "2025-11-17": 881,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 79,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-11-17": 833,
+      "2025-11-17": 881,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -870,7 +870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "60.79%",
+    "uptime": "60.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -881,7 +881,7 @@
     "timeMonth": 1450,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-11-17": 833,
+      "2025-11-17": 881,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1273,19 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "93.94%",
-    "uptimeWeek": "59.82%",
-    "uptimeMonth": "51.02%",
-    "uptimeYear": "95.76%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "59.81%",
+    "uptimeMonth": "51.10%",
+    "uptimeYear": "95.77%",
     "time": 266,
-    "timeDay": 293,
-    "timeWeek": 278,
-    "timeMonth": 259,
+    "timeDay": 276,
+    "timeWeek": 269,
+    "timeMonth": 256,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-11-17": 16,
+      "2025-11-17": 17,
       "2025-11-16": 515,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1307,7 +1307,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1115,
       "2025-10-17": 1140,
-      "2025-10-16": 73
+      "2025-10-16": 40
     }
   },
   {
@@ -1368,7 +1368,7 @@
     "timeMonth": 181,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-11-17": 833,
+      "2025-11-17": 881,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
