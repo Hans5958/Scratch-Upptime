@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 960,
+      "2025-11-25": 999,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 80,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-11-25": 960,
+      "2025-11-25": 999,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 1446,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-11-25": 961,
+      "2025-11-25": 999,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -1273,19 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "94.89%",
-    "uptimeWeek": "81.24%",
-    "uptimeMonth": "77.46%",
-    "uptimeYear": "98.12%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "81.62%",
+    "uptimeMonth": "77.59%",
+    "uptimeYear": "98.13%",
     "time": 269,
-    "timeDay": 437,
+    "timeDay": 427,
     "timeWeek": 324,
     "timeMonth": 272,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-11-25": 73,
+      "2025-11-25": 74,
       "2025-11-23": 41,
       "2025-11-22": 133,
       "2025-11-21": 606,
@@ -1302,7 +1302,7 @@
       "2025-10-31": 419,
       "2025-10-30": 859,
       "2025-10-29": 966,
-      "2025-10-28": 751
+      "2025-10-28": 695
     }
   },
   {
@@ -1352,7 +1352,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "48.18%",
+    "uptime": "48.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1363,7 +1363,7 @@
     "timeMonth": 186,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-11-25": 961,
+      "2025-11-25": 999,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
