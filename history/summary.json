@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 57,
+      "2025-11-26": 127,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 79,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2025-11-26": 57,
+      "2025-11-26": 127,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 1445,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-11-26": 57,
+      "2025-11-26": 127,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -1273,18 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "85.64%",
+    "uptimeDay": "85.60%",
     "uptimeWeek": "82.15%",
-    "uptimeMonth": "78.37%",
+    "uptimeMonth": "78.40%",
     "uptimeYear": "98.20%",
     "time": 270,
-    "timeDay": 337,
+    "timeDay": 333,
     "timeWeek": 312,
-    "timeMonth": 272,
+    "timeMonth": 273,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2025-11-26": 1,
       "2025-11-25": 206,
       "2025-11-23": 41,
       "2025-11-22": 133,
@@ -1302,7 +1303,7 @@
       "2025-10-31": 419,
       "2025-10-30": 859,
       "2025-10-29": 966,
-      "2025-10-28": 218
+      "2025-10-28": 205
     }
   },
   {
@@ -1352,7 +1353,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "48.17%",
+    "uptime": "48.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1363,7 +1364,7 @@
     "timeMonth": 186,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-11-26": 57,
+      "2025-11-26": 128,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
