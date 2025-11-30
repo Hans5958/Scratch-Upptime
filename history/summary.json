@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 1114,
+      "2025-11-30": 1149,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 69,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-11-30": 1114,
+      "2025-11-30": 1150,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -870,7 +870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "60.35%",
+    "uptime": "60.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -881,7 +881,7 @@
     "timeMonth": 1440,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-11-30": 1114,
+      "2025-11-30": 1150,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -1273,16 +1273,16 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.36%",
-    "uptimeWeek": "91.57%",
-    "uptimeMonth": "81.16%",
-    "uptimeYear": "98.35%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "81.20%",
+    "uptimeYear": "98.36%",
     "time": 271,
-    "timeDay": 222,
-    "timeWeek": 262,
-    "timeMonth": 278,
+    "timeDay": 241,
+    "timeWeek": 264,
+    "timeMonth": 279,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-11-30": 85,
@@ -1305,7 +1305,7 @@
       "2025-11-02": 85,
       "2025-11-01": 245,
       "2025-10-31": 419,
-      "2025-10-30": 589
+      "2025-10-30": 533
     }
   },
   {
@@ -1366,7 +1366,7 @@
     "timeMonth": 185,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-11-30": 1115,
+      "2025-11-30": 1150,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
