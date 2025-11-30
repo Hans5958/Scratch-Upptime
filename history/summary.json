@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.scratch.mit.edu.ico",
     "slug": "download-server-1",
     "status": "down",
-    "uptime": "61.76%",
+    "uptime": "61.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 1166,
+      "2025-11-30": 1320,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 69,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-11-30": 1166,
+      "2025-11-30": 1320,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 1440,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-11-30": 1166,
+      "2025-11-30": 1320,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -1273,16 +1273,16 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "91.40%",
-    "uptimeMonth": "81.20%",
-    "uptimeYear": "98.36%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "91.51%",
+    "uptimeMonth": "81.47%",
+    "uptimeYear": "98.37%",
     "time": 272,
-    "timeDay": 295,
-    "timeWeek": 273,
-    "timeMonth": 281,
+    "timeDay": 321,
+    "timeWeek": 276,
+    "timeMonth": 279,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2025-11-30": 101,
@@ -1305,7 +1305,7 @@
       "2025-11-02": 85,
       "2025-11-01": 245,
       "2025-10-31": 419,
-      "2025-10-30": 533
+      "2025-10-30": 508
     }
   },
   {
@@ -1366,7 +1366,7 @@
     "timeMonth": 185,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-11-30": 1166,
+      "2025-11-30": 1320,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
