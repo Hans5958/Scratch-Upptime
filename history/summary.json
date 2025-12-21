@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-21": 63,
+      "2025-12-21": 199,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -486,7 +486,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.scratch.mit.edu.ico",
     "slug": "project-json-server",
     "status": "down",
-    "uptime": "38.37%",
+    "uptime": "38.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -497,7 +497,7 @@
     "timeMonth": 80,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-12-21": 64,
+      "2025-12-21": 200,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 1467,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2025-12-21": 64,
+      "2025-12-21": 200,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -1273,18 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "22.16%",
-    "uptimeWeek": "3.17%",
-    "uptimeMonth": "35.42%",
-    "uptimeYear": "93.43%",
+    "uptimeDay": "31.57%",
+    "uptimeWeek": "4.51%",
+    "uptimeMonth": "35.63%",
+    "uptimeYear": "93.44%",
     "time": 270,
-    "timeDay": 419,
-    "timeWeek": 316,
-    "timeMonth": 291,
+    "timeDay": 387,
+    "timeWeek": 303,
+    "timeMonth": 289,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2025-12-21": 1,
       "2025-12-20": 1184,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -1324,7 +1325,7 @@
       "2025-11-13": 639,
       "2025-11-02": 85,
       "2025-11-01": 245,
-      "2025-10-31": 216
+      "2025-10-31": 181
     }
   },
   {
@@ -1385,7 +1386,7 @@
     "timeMonth": 159,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-12-21": 64,
+      "2025-12-21": 200,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
