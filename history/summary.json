@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.scratch.mit.edu.ico",
     "slug": "download-server-1",
     "status": "down",
-    "uptime": "61.08%",
+    "uptime": "61.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-21": 250,
+      "2025-12-21": 653,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 80,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-12-21": 250,
+      "2025-12-21": 653,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -870,7 +870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "59.68%",
+    "uptime": "59.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -881,7 +881,7 @@
     "timeMonth": 1467,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2025-12-21": 250,
+      "2025-12-21": 653,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -1273,15 +1273,15 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "31.60%",
-    "uptimeWeek": "4.51%",
+    "uptimeDay": "59.57%",
+    "uptimeWeek": "8.51%",
     "uptimeMonth": "35.51%",
-    "uptimeYear": "93.43%",
+    "uptimeYear": "93.45%",
     "time": 270,
-    "timeDay": 372,
-    "timeWeek": 299,
+    "timeDay": 362,
+    "timeWeek": 297,
     "timeMonth": 289,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -1325,7 +1325,7 @@
       "2025-11-13": 639,
       "2025-11-02": 85,
       "2025-11-01": 245,
-      "2025-10-31": 181
+      "2025-10-31": 43
     }
   },
   {
@@ -1375,7 +1375,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "47.51%",
+    "uptime": "47.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1386,7 +1386,7 @@
     "timeMonth": 159,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-12-21": 250,
+      "2025-12-21": 654,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
