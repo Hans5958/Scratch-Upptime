@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 1052,
+      "2025-12-23": 1213,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 75,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-12-23": 1052,
+      "2025-12-23": 1213,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -870,7 +870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "59.60%",
+    "uptime": "59.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -881,7 +881,7 @@
     "timeMonth": 1471,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2025-12-23": 1052,
+      "2025-12-23": 1213,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1273,19 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "85.23%",
-    "uptimeWeek": "36.23%",
-    "uptimeMonth": "35.89%",
-    "uptimeYear": "94.23%",
+    "uptimeDay": "90.02%",
+    "uptimeWeek": "37.82%",
+    "uptimeMonth": "35.98%",
+    "uptimeYear": "94.26%",
     "time": 271,
-    "timeDay": 238,
-    "timeWeek": 265,
-    "timeMonth": 275,
+    "timeDay": 222,
+    "timeWeek": 263,
+    "timeMonth": 272,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-12-23": 70,
+      "2025-12-23": 71,
       "2025-12-22": 207,
       "2025-12-21": 257,
       "2025-12-20": 1184,
@@ -1320,7 +1320,7 @@
       "2025-11-20": 441,
       "2025-11-19": 370,
       "2025-11-18": 466,
-      "2025-11-17": 251
+      "2025-11-17": 81
     }
   },
   {
@@ -1381,7 +1381,7 @@
     "timeMonth": 153,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-12-23": 1052,
+      "2025-12-23": 1213,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
