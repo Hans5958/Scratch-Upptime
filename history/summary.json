@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 976,
+      "2025-12-23": 1006,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 75,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-12-23": 976,
+      "2025-12-23": 1007,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 1471,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2025-12-23": 976,
+      "2025-12-23": 1007,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -1273,19 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "87.03%",
-    "uptimeWeek": "35.92%",
+    "uptimeDay": "87.67%",
+    "uptimeWeek": "36.22%",
     "uptimeMonth": "35.99%",
-    "uptimeYear": "94.21%",
+    "uptimeYear": "94.23%",
     "time": 271,
-    "timeDay": 241,
-    "timeWeek": 267,
-    "timeMonth": 276,
+    "timeDay": 243,
+    "timeWeek": 268,
+    "timeMonth": 277,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-12-23": 25,
+      "2025-12-23": 26,
       "2025-12-22": 207,
       "2025-12-21": 257,
       "2025-12-20": 1184,
@@ -1320,7 +1320,7 @@
       "2025-11-20": 441,
       "2025-11-19": 370,
       "2025-11-18": 466,
-      "2025-11-17": 351
+      "2025-11-17": 251
     }
   },
   {
@@ -1381,7 +1381,7 @@
     "timeMonth": 153,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-12-23": 976,
+      "2025-12-23": 1007,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
