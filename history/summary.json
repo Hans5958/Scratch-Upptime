@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-24": 45,
+      "2025-12-24": 59,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 74,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-12-24": 45,
+      "2025-12-24": 59,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 1467,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2025-12-24": 45,
+      "2025-12-24": 59,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -1276,7 +1276,7 @@
     "status": "up",
     "uptime": "98.86%",
     "uptimeDay": "87.93%",
-    "uptimeWeek": "39.50%",
+    "uptimeWeek": "39.64%",
     "uptimeMonth": "35.75%",
     "uptimeYear": "94.25%",
     "time": 271,
@@ -1371,7 +1371,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "47.44%",
+    "uptime": "47.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1382,7 +1382,7 @@
     "timeMonth": 150,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-12-24": 45,
+      "2025-12-24": 59,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
