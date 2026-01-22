@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 1153,
+      "2026-01-22": 1193,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -486,7 +486,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.scratch.mit.edu.ico",
     "slug": "project-json-server",
     "status": "down",
-    "uptime": "37.70%",
+    "uptime": "37.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -497,7 +497,7 @@
     "timeMonth": 88,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2026-01-22": 1153,
+      "2026-01-22": 1193,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -881,7 +881,7 @@
     "timeMonth": 1444,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2026-01-22": 1153,
+      "2026-01-22": 1193,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1273,19 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "7.29%",
-    "uptimeWeek": "1.04%",
-    "uptimeMonth": "18.47%",
+    "uptimeDay": "10.04%",
+    "uptimeWeek": "1.43%",
+    "uptimeMonth": "18.50%",
     "uptimeYear": "87.67%",
     "time": 274,
-    "timeDay": 195,
-    "timeWeek": 209,
-    "timeMonth": 259,
-    "timeYear": 280,
+    "timeDay": 185,
+    "timeWeek": 203,
+    "timeMonth": 256,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2026-01-22": 1047,
+      "2026-01-22": 1048,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1345,7 +1345,7 @@
       "2025-11-23": 41,
       "2025-11-22": 133,
       "2025-11-21": 606,
-      "2025-11-20": 430
+      "2025-11-20": 419
     }
   },
   {
@@ -1406,7 +1406,7 @@
     "timeMonth": 172,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2026-01-22": 1153,
+      "2026-01-22": 1193,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
