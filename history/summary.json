@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1191,
+      "2026-01-25": 1254,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 86,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2026-01-25": 1191,
+      "2026-01-25": 1255,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -870,7 +870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "58.55%",
+    "uptime": "58.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -881,7 +881,7 @@
     "timeMonth": 1440,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2026-01-25": 1191,
+      "2026-01-25": 1255,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1273,19 +1273,19 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "85.83%",
-    "uptimeWeek": "34.58%",
-    "uptimeMonth": "17.17%",
+    "uptimeDay": "85.79%",
+    "uptimeWeek": "35.21%",
+    "uptimeMonth": "17.16%",
     "uptimeYear": "87.71%",
     "time": 271,
-    "timeDay": 266,
+    "timeDay": 265,
     "timeWeek": 243,
     "timeMonth": 272,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2026-01-25": 165,
+      "2026-01-25": 166,
       "2026-01-24": 339,
       "2026-01-23": 355,
       "2026-01-22": 1166,
@@ -1344,8 +1344,7 @@
       "2025-11-28": 170,
       "2025-11-27": 155,
       "2025-11-26": 209,
-      "2025-11-25": 206,
-      "2025-11-23": 11
+      "2025-11-25": 206
     }
   },
   {
@@ -1406,7 +1405,7 @@
     "timeMonth": 173,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2026-01-25": 1191,
+      "2026-01-25": 1255,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
