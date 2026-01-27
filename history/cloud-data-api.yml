@@ -1,7 +1,7 @@
 url: https://clouddata.scratch.mit.edu
-status: up
-code: 404
-responseTime: 296
-lastUpdated: 2026-01-26T23:27:57.821Z
+status: down
+code: 502
+responseTime: 290
+lastUpdated: 2026-01-27T14:47:00.339Z
 startTime: 2020-12-03T14:51:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
