@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/scratch.mit.edu.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.79%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.94%",
+    "uptimeDay": "89.93%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.97%",
     "time": 139,
     "timeDay": 138,
     "timeWeek": 130,
     "timeMonth": 110,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-02-07": 70,
+      "2026-02-07": 140,
       "2026-02-06": 5
     }
   },
@@ -25,18 +25,20 @@
     "url": "https://api.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/api.scratch.mit.edu.ico",
     "slug": "main-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 169,
+    "timeDay": 139,
     "timeWeek": 107,
     "timeMonth": 117,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-07": 0
+    }
   },
   {
     "name": "Download server 1",
@@ -55,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-07": 70,
+      "2026-02-07": 140,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -500,7 +502,7 @@
     "timeMonth": 106,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-02-07": 70,
+      "2026-02-07": 140,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -884,7 +886,7 @@
     "timeMonth": 1430,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2026-02-07": 70,
+      "2026-02-07": 140,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -1281,14 +1283,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "17.28%",
-    "uptimeYear": "85.46%",
+    "uptimeYear": "85.45%",
     "time": 272,
     "timeDay": 259,
     "timeWeek": 291,
     "timeMonth": 252,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2026-02-07": 70,
+      "2026-02-07": 140,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -1416,7 +1418,7 @@
     "timeMonth": 171,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2026-02-07": 70,
+      "2026-02-07": 140,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
