@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 136,
-    "timeDay": 73,
-    "timeWeek": 213,
-    "timeMonth": 144,
+    "time": 135,
+    "timeDay": 122,
+    "timeWeek": 217,
+    "timeMonth": 145,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2026-03-07": 19,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 124,
-    "timeDay": 109,
-    "timeWeek": 69,
-    "timeMonth": 132,
+    "timeDay": 71,
+    "timeWeek": 67,
+    "timeMonth": 95,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2026-02-07": 117
@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.scratch.mit.edu.ico",
     "slug": "download-server-1",
     "status": "down",
-    "uptime": "58.18%",
+    "uptime": "58.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -59,7 +59,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-23": 79,
+      "2026-03-24": 72,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -422,8 +423,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -437,10 +437,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 970,
-    "timeDay": 1191,
-    "timeWeek": 1180,
-    "timeMonth": 1003,
+    "time": 971,
+    "timeDay": 1240,
+    "timeWeek": 1136,
+    "timeMonth": 1021,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-12-26": 29,
@@ -459,8 +459,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 105,
-    "timeWeek": 74,
+    "timeDay": 68,
+    "timeWeek": 71,
     "timeMonth": 86,
     "timeYear": 118,
     "dailyMinutesDown": {}
@@ -477,9 +477,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 223,
-    "timeDay": 181,
-    "timeWeek": 172,
-    "timeMonth": 189,
+    "timeDay": 161,
+    "timeWeek": 144,
+    "timeMonth": 185,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-09-22": 56,
@@ -492,18 +492,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.scratch.mit.edu.ico",
     "slug": "project-json-server",
     "status": "down",
-    "uptime": "36.54%",
+    "uptime": "36.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 91,
-    "timeDay": 166,
-    "timeWeek": 79,
-    "timeMonth": 95,
+    "timeDay": 108,
+    "timeWeek": 85,
+    "timeMonth": 96,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2026-03-23": 79,
+      "2026-03-24": 72,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -866,8 +867,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -876,18 +876,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "56.84%",
+    "uptime": "56.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 1454,
-    "timeDay": 1395,
-    "timeWeek": 1396,
-    "timeMonth": 1475,
+    "timeDay": 1143,
+    "timeWeek": 1357,
+    "timeMonth": 1465,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2026-03-23": 79,
+      "2026-03-24": 72,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -1250,8 +1251,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -1266,10 +1266,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 65,
-    "timeDay": 23,
-    "timeWeek": 39,
+    "timeDay": 65,
+    "timeWeek": 33,
     "timeMonth": 53,
-    "timeYear": 68,
+    "timeYear": 67,
     "dailyMinutesDown": {
       "2025-08-16": 30
     }
@@ -1283,11 +1283,11 @@
     "uptime": "95.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.41%",
+    "uptimeMonth": "51.68%",
     "uptimeYear": "76.78%",
     "time": 275,
-    "timeDay": 367,
-    "timeWeek": 284,
+    "timeDay": 400,
+    "timeWeek": 278,
     "timeMonth": 273,
     "timeYear": 276,
     "dailyMinutesDown": {
@@ -1404,9 +1404,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 247,
-    "timeWeek": 171,
-    "timeMonth": 167,
+    "timeDay": 136,
+    "timeWeek": 161,
+    "timeMonth": 165,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-09-22": 56
@@ -1424,10 +1424,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 139,
-    "timeDay": 230,
-    "timeWeek": 193,
-    "timeMonth": 151,
-    "timeYear": 143,
+    "timeDay": 174,
+    "timeWeek": 187,
+    "timeMonth": 149,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2025-09-22": 56,
       "2025-08-25": 47
@@ -1439,18 +1439,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate-service.scratch.mit.edu.ico",
     "slug": "translation-service",
     "status": "down",
-    "uptime": "45.25%",
+    "uptime": "45.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 183,
-    "timeDay": 242,
-    "timeWeek": 159,
-    "timeMonth": 168,
+    "timeDay": 200,
+    "timeWeek": 165,
+    "timeMonth": 165,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2026-03-23": 80,
+      "2026-03-24": 73,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -1813,8 +1814,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   }
 ]
