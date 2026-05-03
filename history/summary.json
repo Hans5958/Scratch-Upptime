@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 587,
+      "2026-05-03": 688,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 113,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2026-05-03": 587,
+      "2026-05-03": 688,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -881,7 +881,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "55.66%",
+    "uptime": "55.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -892,7 +892,7 @@
     "timeMonth": 1311,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2026-05-03": 587,
+      "2026-05-03": 688,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -1284,17 +1284,17 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.56%",
-    "uptimeDay": "71.81%",
-    "uptimeWeek": "36.01%",
-    "uptimeMonth": "24.18%",
-    "uptimeYear": "70.52%",
+    "uptimeDay": "71.78%",
+    "uptimeWeek": "37.00%",
+    "uptimeMonth": "24.17%",
+    "uptimeYear": "70.54%",
     "time": 273,
-    "timeDay": 228,
-    "timeWeek": 246,
-    "timeMonth": 274,
-    "timeYear": 276,
+    "timeDay": 243,
+    "timeWeek": 252,
+    "timeMonth": 276,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2026-05-03": 85,
       "2026-05-02": 396,
@@ -1419,7 +1419,7 @@
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
-      "2025-12-02": 667
+      "2025-12-02": 566
     }
   },
   {
@@ -1480,7 +1480,7 @@
     "timeMonth": 195,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2026-05-03": 588,
+      "2026-05-03": 688,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
