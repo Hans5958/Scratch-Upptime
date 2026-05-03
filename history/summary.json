@@ -11,7 +11,7 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.87%",
     "time": 133,
-    "timeDay": 119,
+    "timeDay": 94,
     "timeWeek": 134,
     "timeMonth": 110,
     "timeYear": 132,
@@ -37,7 +37,7 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.93%",
     "time": 124,
-    "timeDay": 82,
+    "timeDay": 55,
     "timeWeek": 99,
     "timeMonth": 103,
     "timeYear": 126,
@@ -65,7 +65,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 1428,
+      "2026-05-03": 1,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -428,8 +429,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -444,7 +444,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 985,
-    "timeDay": 1177,
+    "timeDay": 737,
     "timeWeek": 975,
     "timeMonth": 1049,
     "timeYear": 1016,
@@ -464,7 +464,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 106,
+    "timeDay": 47,
     "timeWeek": 113,
     "timeMonth": 101,
     "timeYear": 115,
@@ -482,7 +482,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 223,
-    "timeDay": 168,
+    "timeDay": 98,
     "timeWeek": 215,
     "timeMonth": 203,
     "timeYear": 223,
@@ -503,12 +503,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 92,
-    "timeDay": 78,
+    "timeDay": 55,
     "timeWeek": 85,
     "timeMonth": 113,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2026-05-02": 1428,
+      "2026-05-03": 1,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -871,8 +872,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -887,12 +887,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1446,
-    "timeDay": 1154,
+    "timeDay": 1146,
     "timeWeek": 1224,
     "timeMonth": 1311,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2026-05-02": 1428,
+      "2026-05-03": 1,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -1255,8 +1256,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -1271,7 +1271,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 66,
-    "timeDay": 30,
+    "timeDay": 19,
     "timeWeek": 78,
     "timeMonth": 74,
     "timeYear": 65,
@@ -1284,19 +1284,20 @@
     "url": "https://clouddata.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/clouddata.scratch.mit.edu.ico",
     "slug": "cloud-data-api",
-    "status": "down",
+    "status": "up",
     "uptime": "94.56%",
-    "uptimeDay": "72.50%",
+    "uptimeDay": "72.53%",
     "uptimeWeek": "31.02%",
-    "uptimeMonth": "24.39%",
+    "uptimeMonth": "24.37%",
     "uptimeYear": "70.53%",
     "time": 277,
-    "timeDay": 221,
-    "timeWeek": 250,
-    "timeMonth": 278,
-    "timeYear": 277,
+    "timeDay": 210,
+    "timeWeek": 242,
+    "timeMonth": 273,
+    "timeYear": 276,
     "dailyMinutesDown": {
-      "2026-05-02": 384,
+      "2026-05-03": 1,
+      "2026-05-02": 396,
       "2026-05-01": 501,
       "2026-04-30": 346,
       "2026-04-29": 1391,
@@ -1434,7 +1435,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 227,
-    "timeDay": 121,
+    "timeDay": 95,
     "timeWeek": 223,
     "timeMonth": 237,
     "timeYear": 243,
@@ -1475,12 +1476,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 184,
-    "timeDay": 165,
+    "timeDay": 157,
     "timeWeek": 193,
     "timeMonth": 195,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2026-05-02": 1429,
+      "2026-05-03": 1,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -1843,8 +1845,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   }
 ]
