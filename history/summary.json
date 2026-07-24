@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 131,
-    "timeDay": 203,
-    "timeWeek": 144,
-    "timeMonth": 120,
+    "timeDay": 87,
+    "timeWeek": 152,
+    "timeMonth": 119,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2026-02-07": 257,
@@ -37,8 +37,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 124,
-    "timeDay": 147,
-    "timeWeek": 109,
+    "timeDay": 104,
+    "timeWeek": 111,
     "timeMonth": 99,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -65,7 +65,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 1313,
+      "2026-07-24": 108,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -428,8 +429,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -438,19 +438,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.scratch.mit.edu.ico",
     "slug": "download-server-2",
     "status": "down",
-    "uptime": "96.80%",
+    "uptime": "96.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.45%",
-    "time": 935,
-    "timeDay": 90,
-    "timeWeek": 156,
-    "timeMonth": 144,
-    "timeYear": 943,
+    "uptimeYear": "82.41%",
+    "time": 934,
+    "timeDay": 212,
+    "timeWeek": 174,
+    "timeMonth": 147,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2025-12-26": 29,
-      "2026-07-23": 1313,
+      "2026-07-24": 108,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -529,9 +530,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 26,
-    "timeWeek": 95,
-    "timeMonth": 81,
+    "timeDay": 116,
+    "timeWeek": 105,
+    "timeMonth": 83,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -547,9 +548,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 214,
-    "timeDay": 216,
-    "timeWeek": 183,
-    "timeMonth": 169,
+    "timeDay": 203,
+    "timeWeek": 190,
+    "timeMonth": 171,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-08-16": 31,
@@ -568,12 +569,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 88,
-    "timeDay": 37,
-    "timeWeek": 46,
-    "timeMonth": 40,
+    "timeDay": 78,
+    "timeWeek": 54,
+    "timeMonth": 41,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2026-07-23": 1313,
+      "2026-07-24": 109,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -936,8 +938,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -946,16 +947,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.scratch.mit.edu.ico",
     "slug": "assets-server",
     "status": "up",
-    "uptime": "54.58%",
+    "uptime": "54.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.96%",
-    "uptimeYear": "6.38%",
-    "time": 1298,
-    "timeDay": 46,
-    "timeWeek": 76,
-    "timeMonth": 74,
-    "timeYear": 1227,
+    "uptimeMonth": "78.50%",
+    "uptimeYear": "6.43%",
+    "time": 1296,
+    "timeDay": 116,
+    "timeWeek": 87,
+    "timeMonth": 76,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2026-06-30": 886,
       "2026-06-29": 1440,
@@ -1297,8 +1298,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -1313,9 +1313,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 76,
-    "timeDay": 34,
-    "timeWeek": 96,
-    "timeMonth": 113,
+    "timeDay": 75,
+    "timeWeek": 87,
+    "timeMonth": 111,
     "timeYear": 82,
     "dailyMinutesDown": {
       "2025-08-16": 30
@@ -1328,13 +1328,13 @@
     "slug": "cloud-data-api",
     "status": "up",
     "uptime": "95.32%",
-    "uptimeDay": "0.05%",
+    "uptimeDay": "16.39%",
     "uptimeWeek": "68.35%",
     "uptimeMonth": "92.72%",
     "uptimeYear": "73.59%",
     "time": 279,
-    "timeDay": 316,
-    "timeWeek": 193,
+    "timeDay": 261,
+    "timeWeek": 186,
     "timeMonth": 208,
     "timeYear": 275,
     "dailyMinutesDown": {
@@ -1472,9 +1472,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 116,
-    "timeWeek": 140,
-    "timeMonth": 401,
+    "timeDay": 209,
+    "timeWeek": 139,
+    "timeMonth": 394,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-09-22": 56
@@ -1492,9 +1492,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 149,
-    "timeDay": 96,
-    "timeWeek": 142,
-    "timeMonth": 153,
+    "timeDay": 176,
+    "timeWeek": 149,
+    "timeMonth": 154,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2025-08-25": 47,
@@ -1513,12 +1513,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 178,
-    "timeDay": 109,
+    "timeDay": 192,
     "timeWeek": 129,
-    "timeMonth": 127,
+    "timeMonth": 129,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-07-23": 1314,
+      "2026-07-24": 109,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -1881,8 +1882,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   }
 ]
